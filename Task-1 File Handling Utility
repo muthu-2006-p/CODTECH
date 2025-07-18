@@ -1,0 +1,12 @@
+A basic Java utility for performing file handling operations such as create, write, read, and delete. Task-1 of CODTECH Internship.
+## 📁 Java File Handling Utility | Task-1 (CODTECH Internship)
+
+This project is a **simple Java file handling utility** that demonstrates basic operations like:
+
+- 📄 Creating a file
+- ✍️ Writing to a file
+- 📖 Reading from a file
+- ❌ Deleting a file
+
+It is developed as part of the CODTECH Internship Task-1.  
+All operations are performed using `File` and `FileWriter`/`BufferedReader` classes in core Java.  
